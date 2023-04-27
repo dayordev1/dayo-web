@@ -1,2 +1,2 @@
 # dayo-web
-Building my first website with HTML & CSS
+Building my first website with basic HTML & CSS
